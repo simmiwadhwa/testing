@@ -8,7 +8,7 @@ import io.cucumber.java.en.When;
 public class LoginSteps {
     @Given("User is on login page")
     public void userIsOnLoginPage() {
-        System.out.println("userIsOnLoginPage");
+        System.out.println("userIsOnLoginPage11");
     }
 
     @When("User enters username and password")
